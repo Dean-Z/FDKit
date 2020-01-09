@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "FDQRCodeCreator.h"
 
 FOUNDATION_EXPORT double FDKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char FDKitVersionString[];
